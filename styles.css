@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+.favorite-color{
+	color: orangered;
+	font-size: 20px;
+	font-weight: 900;
+}
